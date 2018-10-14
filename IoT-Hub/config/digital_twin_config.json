@@ -1,0 +1,42 @@
+{
+  "influx-server-url": "http://localhost:8086/write?db=things2pack&u=picominer&p=vc1004influxdb123!",
+  "hdf5_historian" : 0,
+  "network_historian" : {
+      "type": "network",
+      "description": "About the recorder. This will be supported in future releases.",
+      "remote_historian_server": "FDQN",
+      "remote_historian_port" : 9999,
+      "remote_historian_user" : "user",
+      "remote_historian_password" : "mypassword",
+      "remote_historian_client_cert": "cert",
+      "remote_historian_scheme" : "http | tcp | zmq | amqp"
+    },
+   "wsn" : {
+     "remote-node": {
+        "direction": "EGRESS",
+        "remote_wsn_server": "localhost",
+        "remote_wsn_port" : 6379,
+        "remote_wsn_user" : "esdbadmin",
+        "remote_wsn_password" : "vc100123!",
+        "remote_wsn_db" : "3",
+        "remote_wsn_scheme" : "redis",
+        "remote_wsn_domain": "WNS",
+        "remote_wsn_q_name" : "ABCD12345678-IoT-Hub-Wsn-Wf:Wsn-Protocols-Q"
+     },
+     "sf-transducer-insights-protocol" : {
+        "status": 1
+     },
+     "sf-alarms-protocol" : {
+        "status": 0
+     },
+     "sf-dashboard-protocol" : {
+        "status": 0
+     },
+     "sf-equipment-health-protocol" : {
+        "status": 0
+     },
+     "sf-notifications-protocol" : {
+        "status": 0
+     }
+   }
+}

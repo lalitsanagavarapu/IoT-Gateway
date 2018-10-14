@@ -1,0 +1,1798 @@
+[2016-01-22 22:19:11.795] [oam] [info] CIdkTimWebServer::start
+[2016-01-22 22:19:11.796] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:19:13.801] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:19:15.806] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:19:17.812] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:19:19.817] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:19:21.822] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:19:23.827] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:19:25.832] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:19:27.837] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:19:29.842] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:19:31.847] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:19:33.852] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:19:35.857] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:19:37.862] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:19:39.867] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:19:41.872] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:19:43.877] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:19:45.883] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:19:47.888] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:19:49.893] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:19:51.899] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:19:53.904] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:19:55.909] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:19:57.914] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:19:59.919] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:20:01.924] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:20:03.929] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:20:05.935] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:20:07.940] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:20:09.945] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:20:11.950] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:20:13.955] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:20:15.960] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:20:17.965] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:20:19.971] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:20:21.976] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:20:23.981] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:20:25.986] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:20:27.991] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:20:29.996] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:20:32.001] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:20:34.007] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:20:36.012] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:20:38.017] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:20:40.023] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:20:42.028] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:20:44.033] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:20:46.038] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:20:48.043] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:20:50.048] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:20:52.053] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:20:54.058] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:20:56.064] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:20:58.069] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:21:00.074] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:21:02.079] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:21:04.084] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:21:06.090] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:21:08.095] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:21:10.100] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:21:12.105] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:21:14.110] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:21:16.115] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:21:18.120] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:21:20.125] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:21:22.130] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:21:24.135] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:21:26.140] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:21:28.145] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:21:30.150] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:21:32.155] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:21:34.160] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:21:36.166] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:21:38.171] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:21:40.176] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:21:42.181] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:21:44.186] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:21:46.191] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:21:48.196] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:21:50.201] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:21:52.206] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:21:54.211] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:21:56.216] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:21:58.222] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:22:00.227] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:22:02.232] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:22:04.237] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:22:06.242] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:22:08.247] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:22:10.253] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:22:12.258] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:22:14.263] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:22:16.268] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:22:18.273] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:22:20.278] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:22:22.283] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:22:24.288] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:22:26.293] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:22:28.299] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:22:30.304] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:22:32.309] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:22:34.314] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:22:36.319] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:22:38.325] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:22:40.330] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:22:42.335] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:22:44.340] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:22:46.346] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:22:48.351] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:22:50.356] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:22:52.361] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:22:54.366] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:22:56.371] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:22:58.377] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:23:00.382] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:23:02.387] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:23:04.392] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:23:06.397] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:23:08.402] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:23:10.407] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:23:12.413] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:23:14.418] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:23:16.424] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:23:18.429] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:23:20.434] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:23:22.439] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:23:24.444] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:23:26.449] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:23:28.454] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:23:30.459] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:23:32.464] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:23:34.470] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:23:36.475] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:23:38.480] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:23:40.485] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:23:42.490] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:23:44.496] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:23:46.501] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:23:48.506] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:23:50.511] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:23:52.516] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:23:54.521] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:23:56.526] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:23:58.532] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:24:00.537] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:24:02.542] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:24:04.547] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:24:06.553] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:24:08.558] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:24:10.563] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:24:12.568] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:24:14.573] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:24:16.578] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:24:18.584] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:24:20.589] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:24:22.594] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:24:24.598] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:24:26.603] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:24:28.609] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:24:30.614] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:24:32.619] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:24:34.624] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:24:36.629] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:24:38.634] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:24:40.640] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:24:42.645] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:24:44.650] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:24:46.655] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:24:48.660] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:24:50.665] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:24:52.670] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:24:54.675] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:24:56.680] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:24:58.685] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:25:00.690] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:25:02.695] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:25:04.700] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:25:06.706] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:25:08.711] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:25:10.716] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:25:12.721] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:25:14.726] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:25:16.731] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:25:18.736] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:25:20.741] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:25:22.747] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:25:24.752] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:25:26.757] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:25:28.765] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:25:30.770] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:25:32.775] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:25:34.780] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:25:36.785] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:25:38.790] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:25:40.795] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:25:42.800] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:25:44.806] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:25:46.811] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:25:48.816] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:25:50.821] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:25:52.826] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:25:54.831] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:25:56.836] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:25:58.842] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:26:00.847] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:26:02.852] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:26:04.857] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:26:06.862] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:26:08.867] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:26:10.872] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:26:12.877] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:26:14.882] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:26:16.887] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:26:18.892] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:26:20.897] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:26:22.902] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:26:24.907] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:26:26.912] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:26:28.918] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:26:30.923] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:26:32.928] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:26:34.933] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:26:36.938] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:26:38.943] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:26:40.948] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:26:42.954] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:26:44.959] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:26:46.964] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:26:48.969] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:26:50.974] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:26:52.981] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:26:54.986] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:26:56.991] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:26:58.996] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:27:01.000] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:27:03.006] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:27:05.011] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:27:07.016] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:27:09.021] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:27:11.027] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:27:13.032] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:27:15.037] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:27:17.042] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:27:19.047] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:27:21.052] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:27:23.058] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:27:25.062] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:27:27.068] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:27:29.073] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:27:31.078] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:27:33.083] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:27:35.088] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:27:37.094] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:27:39.099] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:27:41.104] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:27:43.109] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:27:45.114] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:27:47.120] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:27:49.124] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:27:51.130] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:27:53.135] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:27:55.139] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:27:57.145] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:27:59.150] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:28:01.155] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:28:03.160] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:28:05.165] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:28:07.170] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:28:09.175] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:28:11.181] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:28:13.185] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:28:15.191] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:28:17.195] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:28:19.200] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:28:21.205] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:28:23.210] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:28:25.215] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:28:27.220] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:28:29.225] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:28:31.230] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:28:33.235] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:28:35.240] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:28:37.246] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:28:39.251] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:28:41.256] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:28:43.261] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:28:45.265] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:28:47.270] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:28:49.276] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:28:51.281] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:28:53.286] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:28:55.291] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:28:57.296] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:28:59.302] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:29:01.308] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:29:03.313] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:29:05.318] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:29:07.323] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:29:09.328] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:29:11.333] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:29:13.338] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:29:15.343] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:29:17.348] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:29:19.353] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:29:21.361] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:29:23.366] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:29:25.372] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:29:27.377] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:29:29.382] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:29:31.387] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:29:33.392] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:29:35.397] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:29:37.402] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:29:39.407] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:29:41.412] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:29:43.417] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:29:45.422] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:29:47.428] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:29:49.433] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:29:51.438] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:29:53.443] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:29:55.448] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:29:57.453] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:29:59.458] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:30:01.463] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:30:03.468] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:30:05.473] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:30:07.479] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:30:09.484] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:30:11.489] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:30:13.494] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:30:15.499] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:30:17.504] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:30:19.509] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:30:21.515] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:30:23.520] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:30:25.525] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:30:27.530] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:30:29.535] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:30:31.540] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:30:33.547] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:30:35.552] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:30:37.557] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:30:39.562] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:30:41.567] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:30:43.573] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:30:45.578] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:30:47.584] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:30:49.589] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:30:51.594] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:30:53.598] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:30:55.603] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:30:57.609] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:30:59.614] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:31:01.619] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:31:03.624] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:31:05.629] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:31:07.634] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:31:09.639] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:31:11.645] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:31:13.651] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:31:15.657] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:31:17.662] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:31:19.668] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:31:21.673] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:31:23.678] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:31:25.683] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:31:27.688] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:31:29.693] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:31:31.698] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:31:33.703] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:31:35.708] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:31:37.713] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:31:39.718] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:31:41.723] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:31:43.729] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:31:45.735] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:31:47.740] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:31:49.745] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:31:51.750] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:31:53.755] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:31:55.760] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:31:57.765] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:31:59.770] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:32:01.775] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:32:03.780] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:32:05.786] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:32:07.791] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:32:09.796] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:32:11.801] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:32:13.806] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:32:15.811] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:32:17.816] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:32:19.822] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:32:21.827] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:32:23.832] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:32:25.837] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:32:27.842] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:32:29.847] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:32:31.852] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:32:33.857] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:32:35.862] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:32:37.867] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:32:39.873] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:32:41.878] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:32:43.883] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:32:45.888] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:32:47.893] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:32:49.898] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:32:51.903] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:32:53.909] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:32:55.914] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:32:57.919] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:32:59.923] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:33:01.929] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:33:03.934] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:33:05.939] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:33:07.945] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:33:09.950] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:33:11.956] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:33:13.961] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:33:15.965] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:33:17.971] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:33:19.976] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:33:21.981] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:33:23.986] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:33:25.991] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:33:27.996] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:33:30.001] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:33:32.006] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:33:34.012] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:33:36.017] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:33:38.022] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:33:40.027] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:33:42.032] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:33:44.037] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:33:46.042] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:33:48.047] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:33:50.052] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:33:52.057] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:33:54.062] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:33:56.067] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:33:58.072] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:34:00.078] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:34:02.083] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:34:04.088] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:34:06.093] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:34:08.098] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:34:10.104] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:34:12.109] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:34:14.114] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:34:16.119] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:34:18.124] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:34:20.129] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:34:22.134] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:34:24.140] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:34:26.145] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:34:28.150] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:34:30.155] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:34:32.160] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:34:34.165] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:34:36.170] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:34:38.176] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:34:40.181] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:34:42.186] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:34:44.191] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:34:46.196] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:34:48.201] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:34:50.206] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:34:52.212] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:34:54.217] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:34:56.222] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:34:58.228] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:35:00.233] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:35:02.238] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:35:04.243] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:35:06.248] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:35:08.253] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:35:10.258] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:35:12.263] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:35:14.268] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:35:16.273] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:35:18.278] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:35:20.284] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:35:22.289] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:35:24.294] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:35:26.299] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:35:28.305] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:35:30.310] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:35:32.315] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:35:34.320] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:35:36.325] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:35:38.330] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:35:40.336] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:35:42.341] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:35:44.346] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:35:46.351] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:35:48.356] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:35:50.362] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:35:52.367] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:35:54.372] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:35:56.377] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:35:58.382] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:36:00.387] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:36:02.393] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:36:04.398] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:36:06.403] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:36:08.408] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:36:10.413] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:36:12.418] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:36:14.423] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:36:16.428] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:36:18.433] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:36:20.439] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:36:22.444] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:36:24.449] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:36:26.453] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:36:28.458] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:36:30.463] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:36:32.469] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:36:34.474] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:36:36.479] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:36:38.484] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:36:40.489] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:36:42.494] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:36:44.500] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:36:46.505] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:36:48.510] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:36:50.515] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:36:52.519] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:36:54.524] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:36:56.529] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:36:58.533] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:37:00.539] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:37:02.544] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:37:04.549] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:37:06.554] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:37:08.559] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:37:10.564] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:37:12.569] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:37:14.574] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:37:16.579] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:37:18.585] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:37:20.590] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:37:22.595] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:37:24.600] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:37:26.606] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:37:28.611] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:37:30.624] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:37:32.628] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:37:34.634] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:37:36.639] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:37:38.644] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:37:40.649] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:37:42.653] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:37:44.658] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:37:46.663] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:37:48.668] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:37:50.673] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:37:52.679] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:37:54.683] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:37:56.688] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:37:58.694] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:38:00.698] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:38:02.703] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:38:04.709] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:38:06.714] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:38:08.719] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:38:10.725] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:38:12.730] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:38:14.735] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:38:16.740] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:38:18.746] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:38:20.751] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:38:22.756] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:38:24.761] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:38:26.766] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:38:28.771] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:38:30.776] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:38:32.781] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:38:34.786] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:38:36.791] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:38:38.796] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:38:40.801] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:38:42.806] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:38:44.811] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:38:46.816] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:38:48.821] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:38:50.826] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:38:52.831] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:38:54.837] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:38:56.842] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:38:58.846] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:39:00.852] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:39:02.857] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:39:04.862] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:39:06.867] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:39:08.872] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:39:10.877] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:39:12.882] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:39:14.887] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:39:16.892] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:39:18.897] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:39:20.903] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:39:22.908] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:39:24.913] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:39:26.918] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:39:28.924] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:39:30.929] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:39:32.934] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:39:34.939] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:39:36.943] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:39:38.949] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:39:40.954] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:39:42.958] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:39:44.963] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:39:46.968] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:39:48.974] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:39:50.979] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:39:52.984] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:39:54.989] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:39:56.994] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:39:58.999] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:40:01.004] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:40:03.009] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:40:05.014] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:40:07.019] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:40:09.024] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:40:11.029] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:40:13.034] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:40:15.039] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:40:17.044] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:40:19.049] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:40:21.054] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:40:23.059] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:40:25.064] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:40:27.069] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:40:29.075] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:40:31.080] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:40:33.085] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:40:35.090] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:40:37.095] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:40:39.100] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:40:41.105] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:40:43.110] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:40:45.116] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:40:47.121] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:40:49.126] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:40:51.131] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:40:53.136] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:40:55.141] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:40:57.145] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:40:59.150] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:41:01.156] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:41:03.161] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:41:05.165] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:41:07.170] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:41:09.175] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:41:11.180] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:41:13.185] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:41:15.190] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:41:17.195] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:41:19.200] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:41:21.205] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:41:23.211] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:41:25.215] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:41:27.221] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:41:29.226] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:41:31.231] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:41:33.236] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:41:35.241] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:41:37.246] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:41:39.252] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:41:41.257] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:41:43.262] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:41:45.267] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:41:47.272] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:41:49.278] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:41:51.283] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:41:53.288] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:41:55.293] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:41:57.299] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:41:59.304] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:42:01.309] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:42:03.314] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:42:05.319] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:42:07.324] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:42:09.329] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:42:11.334] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:42:13.340] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:42:15.345] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:42:17.350] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:42:19.355] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:42:21.361] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:42:23.366] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:42:25.371] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:42:27.376] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:42:29.381] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:42:31.386] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:42:33.391] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:42:35.395] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:42:37.401] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:42:39.406] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:42:41.411] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:42:43.416] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:42:45.421] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:42:47.426] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:42:49.431] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:42:51.437] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:42:53.442] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:42:55.447] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:42:57.453] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:42:59.458] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:43:01.463] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:43:03.468] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:43:05.474] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:43:07.479] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:43:09.484] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:43:11.489] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:43:13.494] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:43:15.499] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:43:17.504] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:43:19.509] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:43:21.514] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:43:23.520] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:43:25.525] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:43:27.530] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:43:29.535] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:43:31.540] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:43:33.546] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:43:35.551] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:43:37.556] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:43:39.561] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:43:41.567] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:43:43.572] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:43:45.577] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:43:47.582] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:43:49.587] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:43:51.593] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:43:53.598] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:43:55.603] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:43:57.608] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:43:59.613] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:44:01.619] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:44:03.625] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:44:05.630] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:44:07.636] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:44:09.641] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:44:11.646] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:44:13.651] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:44:15.656] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:44:17.661] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:44:19.666] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:44:21.672] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:44:23.677] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:44:25.682] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:44:27.687] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:44:29.692] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:44:31.698] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:44:33.703] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:44:35.708] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:44:37.713] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:44:39.719] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:44:41.724] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:44:43.729] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:44:45.735] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:44:47.740] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:44:49.745] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:44:51.750] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:44:53.755] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:44:55.760] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:44:57.766] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:44:59.771] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:45:01.776] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:45:03.781] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:45:05.786] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:45:07.791] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:45:09.796] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:45:11.802] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:45:13.807] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:45:15.812] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:45:17.817] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:45:19.822] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:45:21.827] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:45:23.832] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:45:25.838] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:45:27.843] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:45:29.848] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:45:31.853] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:45:33.858] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:45:35.863] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:45:37.868] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:45:39.873] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:45:41.878] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:45:43.883] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:45:45.888] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:45:47.893] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:45:49.898] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:45:51.903] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:45:53.908] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:45:55.913] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:45:57.919] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:45:59.924] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:46:01.929] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:46:03.934] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:46:05.939] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:46:07.945] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:46:09.950] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:46:11.955] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:46:13.960] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:46:15.965] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:46:17.970] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:46:19.975] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:46:21.981] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:46:23.986] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:46:25.991] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:46:27.996] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:46:30.002] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:46:32.007] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:46:34.012] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:46:36.017] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:46:38.022] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:46:40.027] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:46:42.032] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:46:44.038] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:46:46.043] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:46:48.048] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:46:50.053] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:46:52.058] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:46:54.063] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:46:56.068] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:46:58.073] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:47:00.079] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:47:02.084] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:47:04.089] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:47:06.094] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:47:08.100] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:47:10.105] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:47:12.110] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:47:14.115] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:47:16.120] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:47:18.126] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:47:20.131] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:47:22.136] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:47:24.141] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:47:26.146] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:47:28.152] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:47:30.157] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:47:32.162] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:47:34.168] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:47:36.173] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:47:38.178] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:47:40.183] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:47:42.188] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:47:44.193] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:47:46.198] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:47:48.203] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:47:50.208] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:47:52.213] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:47:54.219] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:47:56.224] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:47:58.229] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:48:00.234] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:48:02.239] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:48:04.244] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:48:06.250] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:48:08.255] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:48:10.260] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:48:12.265] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:48:14.271] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:48:16.276] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:48:18.281] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:48:20.286] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:48:22.292] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:48:24.297] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:48:26.302] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:48:28.307] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:48:30.312] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:48:32.317] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:48:34.322] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:48:36.328] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:48:38.333] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:48:40.338] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:48:42.343] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:48:44.349] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:48:46.354] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:48:48.359] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:48:50.364] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:48:52.369] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:48:54.374] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:48:56.380] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:48:58.385] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:49:00.390] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:49:02.395] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:49:04.400] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:49:06.405] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:49:08.411] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:49:10.416] [ncap] [info] Initializing CURL for TIM communications
+
+[2016-01-22 22:49:12.421] [nc[2016-01-29 19:11:53.955] [oam] [info] CIdkTimWebServer::start

@@ -1,0 +1,170 @@
+[
+  {
+    "Downstream-Rules": {
+      "description": "Product specific OPC Downstream details.",
+      "rules": [
+        {
+          "id": 65259,
+          "options": 65259
+        },
+        {
+          "id": 65260,
+          "options": 65260
+        }
+      ]
+    },
+    "Meta-Opc-Node-Key": {
+      "id": 1,
+      "port": 80,
+      "server": "localhost"
+    },
+    "Meta-Opc-Rules": {
+      "UUID": {
+        "Date/Sequence": 43996,
+        "E/W": 1,
+        "Latitude": 17.385044,
+        "Longitude": 78.486671,
+        "Manufacturer": 10,
+        "N/S": 1,
+        "UID": 1,
+        "UNAME": "milk",
+        "Year": 2017
+      },
+      "class": {
+        "class_id": 65278,
+        "class_name": "CSFMilkOpc",
+        "class_tag": "OPC"
+      },
+      "description": "Meta-Opc-Rules",
+      "version": {
+        "version_id": 65535,
+        "version_name": "Some Name",
+        "version_tag": "Some Tag"
+      }
+    },
+    "Opc-Rules": {
+      "description": "Product specific OPC Rules and details.",
+      "packml-status-commands": [
+        {
+          "1": {
+            "id": 65259,
+            "options": 65259
+          }
+        },
+        {
+          "2": {
+            "id": 65260,
+            "options": 65260
+          }
+        }
+      ],
+      "rules": [
+        {
+          "id": 65259,
+          "options": 65259
+        },
+        {
+          "id": 65260,
+          "options": 65260
+        }
+      ]
+    },
+    "Upstream-Rules": {
+      "description": "Product Product specific OPC Upstream details.",
+      "rules": [
+        {
+          "id": 65261,
+          "options": 65261
+        },
+        {
+          "id": 65262,
+          "options": 65261
+        }
+      ]
+    }
+  },
+  {
+    "Downstream-Rules": {
+      "description": "Product specific ERP Downstream details.",
+      "rules": [
+        {
+          "id": 65259,
+          "options": 65259
+        },
+        {
+          "id": 65260,
+          "options": 65260
+        }
+      ]
+    },
+    "Meta-Opc-Node-Key": {
+      "id": 2,
+      "port": 80,
+      "server": "localhost"
+    },
+    "Meta-Opc-Rules": {
+      "UUID": {
+        "Date/Sequence": 43996,
+        "E/W": 1,
+        "Latitude": 17.385044,
+        "Longitude": 78.486671,
+        "Manufacturer": 10,
+        "N/S": 1,
+        "UID": 2,
+        "UNAME": "oil",
+        "Year": 2017
+      },
+      "class": {
+        "class_id": 48059,
+        "class_name": "CSFOilOpc",
+        "class_tag": "OPC"
+      },
+      "description": "Meta-Opc-Rules",
+      "version": {
+        "version_id": 48059,
+        "version_name": "Some Name",
+        "version_tag": "Some Tag"
+      }
+    },
+    "Opc-Rules": {
+      "description": "Product specific OPC Rules and details.",
+      "packml-status-commands": [
+        {
+          "1": {
+            "id": 65259,
+            "options": 65259
+          }
+        },
+        {
+          "2": {
+            "id": 65260,
+            "options": 65260
+          }
+        }
+      ],
+      "rules": [
+        {
+          "id": 65259,
+          "options": 65259
+        },
+        {
+          "id": 65260,
+          "options": 65260
+        }
+      ]
+    },
+    "Upstream-Rules": {
+      "description": "Product specific OPC Upstream details.",
+      "rules": [
+        {
+          "id": 65261,
+          "options": 65261
+        },
+        {
+          "id": 65262,
+          "options": 65261
+        }
+      ]
+    }
+  }
+]

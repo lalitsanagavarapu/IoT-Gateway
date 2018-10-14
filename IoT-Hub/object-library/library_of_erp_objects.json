@@ -1,0 +1,142 @@
+[
+  {
+    "Downstream-Rules": {
+      "description": "Product specific ERP Downstream details.",
+      "rules": [
+        {
+          "id": 65259,
+          "options": 65259
+        },
+        {
+          "id": 65260,
+          "options": 65260
+        }
+      ]
+    },
+    "Erp-Rules": {
+      "description": "Product specific ERP Rules and details.",
+      "rules": [
+        {
+          "id": 65259,
+          "options": 65259
+        },
+        {
+          "id": 65260,
+          "options": 65260
+        }
+      ]
+    },
+    "Meta-Erp-Node-Key": {
+      "id": 1,
+      "port": 80,
+      "server": "localhost"
+    },
+    "Meta-Erp-Rules": {
+      "UUID": {
+        "Date/Sequence": 43996,
+        "E/W": 1,
+        "Latitude": 17.385044,
+        "Longitude": 78.486671,
+        "Manufacturer": 10,
+        "N/S": 1,
+        "UID": 1,
+        "UNAME": "milk",
+        "Year": 2017
+      },
+      "class": {
+        "class_id": 65278,
+        "class_name": "CSFMilkErp",
+        "class_tag": "ERP"
+      },
+      "description": "Meta-Erp-Rules",
+      "version": {
+        "version_id": 65535,
+        "version_name": "Some Name",
+        "version_tag": "Some Tag"
+      }
+    },
+    "Upstream-Rules": {
+      "description": "Product Product specific ERP Upstream details.",
+      "rules": [
+        {
+          "id": 65261,
+          "options": 65261
+        },
+        {
+          "id": 65262,
+          "options": 65261
+        }
+      ]
+    }
+  },
+  {
+    "Downstream-Rules": {
+      "description": "Product specific ERP Downstream details.",
+      "rules": [
+        {
+          "id": 65259,
+          "options": 65259
+        },
+        {
+          "id": 65260,
+          "options": 65260
+        }
+      ]
+    },
+    "Erp-Rules": {
+      "description": "Product specific ERP Rules and details.",
+      "rules": [
+        {
+          "id": 65259,
+          "options": 65259
+        },
+        {
+          "id": 65260,
+          "options": 65260
+        }
+      ]
+    },
+    "Meta-Erp-Node-Key": {
+      "id": 2,
+      "port": 80,
+      "server": "localhost"
+    },
+    "Meta-Erp-Rules": {
+      "UUID": {
+        "Date/Sequence": 43996,
+        "E/W": 1,
+        "Latitude": 17.385044,
+        "Longitude": 78.486671,
+        "Manufacturer": 10,
+        "N/S": 1,
+        "UID": 2,
+        "UNAME": "oil",
+        "Year": 2017
+      },
+      "class": {
+        "class_id": 48059,
+        "class_name": "CSFOilErp",
+        "class_tag": "Erp"
+      },
+      "description": "Meta-Erp-Rules",
+      "version": {
+        "version_id": 48059,
+        "version_name": "Some Name",
+        "version_tag": "Some Tag"
+      }
+    },
+    "Upstream-Rules": {
+      "description": "Product specific ERP Upstream details.",
+      "rules": [
+        {
+          "id": 65261,
+          "options": 65261
+        },
+        {
+          "id": 65262,
+          "options": 65261
+        }
+      ]
+    }
+  }
+]

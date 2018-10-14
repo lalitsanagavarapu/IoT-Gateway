@@ -1,0 +1,11 @@
+{
+  
+  "uuids" : {
+    "gateway": {
+        "id": "ABCD12345678",
+        "name": "My Asset Tracker",
+        "description" : "Some text on Asset tracker"
+        "remote_wsn_q_name" : "ABCD12345678-IoT-Hub-Wsn-Wf:Wsn-Protocols-Q"
+    }
+  }
+}

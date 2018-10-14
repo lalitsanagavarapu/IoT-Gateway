@@ -1,0 +1,748 @@
+{
+  "Area-Assets": [
+    {
+      "Meat-Area-Assets": {
+        "UUID": {
+          "Date/Sequence": 43996,
+          "E/W": 1,
+          "Latitude": 17.385044,
+          "Longitude": 78.486671,
+          "Manufacturer": 10,
+          "N/S": 1,
+          "Name": "My Area",
+          "UID": 1,
+          "Year": 2017
+        },
+        "class": {
+          "class_id": 65535,
+          "class_name": "Some Name",
+          "class_tag": "Area-Asset-UUID"
+        },
+        "description": "Area-Site-Assets",
+        "version": {
+          "version_id": 65535,
+          "version_name": "Some Name",
+          "version_tag": "Some Tag"
+        }
+      }
+    }
+  ],
+  "Control-Module-Assets": [
+    {
+      "Meta-Control-Module-Assets": {
+        "UUID": {
+          "Date/Sequence": 43996,
+          "E/W": 1,
+          "Latitude": 17.385044,
+          "Longitude": 78.486671,
+          "Manufacturer": 10,
+          "N/S": 1,
+          "Name": "My Control Module",
+          "UID": 1,
+          "Year": 2017
+        },
+        "class": {
+          "class_id": 65535,
+          "class_name": "Some Name",
+          "class_tag": "Module-Asset-UUID"
+        },
+        "description": "Meta-Control-Module-Assets",
+        "version": {
+          "version_id": 65535,
+          "version_name": "Some Name",
+          "version_tag": "Some Tag"
+        }
+      }
+    }
+  ],
+  "Equipment-Module-Assets": [
+    {
+      "Meta-Equipment-Module-Assets": {
+        "UUID": {
+          "Date/Sequence": 43996,
+          "E/W": 1,
+          "Latitude": 17.385044,
+          "Longitude": 78.486671,
+          "Manufacturer": 10,
+          "N/S": 1,
+          "Name": "My Equipment",
+          "UID": 1,
+          "Year": 2017
+        },
+        "class": {
+          "class_id": 65535,
+          "class_name": "Some Name",
+          "class_tag": "Equipment-Asset-UUID"
+        },
+        "description": "Meta-Equipment-Module-Assets",
+        "version": {
+          "version_id": 65535,
+          "version_name": "Some Name",
+          "version_tag": "Some Tag"
+        }
+      }
+    }
+  ],
+  "Factory-Assets": {
+    "Meta-Factory-Assets": {
+      "UUID": {
+        "Date/Sequence": 43996,
+        "E/W": 1,
+        "Latitude": 17.385044,
+        "Longitude": 78.486671,
+        "Manufacturer": 10,
+        "N/S": 1,
+        "Name": "My Factory",
+        "UID": 1,
+        "Year": 2017
+      },
+      "class": {
+        "class_id": 65535,
+        "class_name": "Some Name",
+        "class_tag": "Factory-Asset-UUID"
+      },
+      "description": "Meta-Factory-Assets",
+      "version": {
+        "version_id": 65535,
+        "version_name": "Some Name",
+        "version_tag": "Some Tag"
+      }
+    }
+  },
+  "Gateway-Assets": [
+    {
+      "Meta-Gateway-Assets": {
+        "UUID": {
+          "Date/Sequence": 43996,
+          "E/W": 1,
+          "Latitude": 17.385044,
+          "Longitude": 78.486671,
+          "Manufacturer": 10,
+          "N/S": 1,
+          "Name": "My Site",
+          "UID": 1,
+          "Year": 2017
+        },
+        "class": {
+          "class_id": 65535,
+          "class_name": "Some Name",
+          "class_tag": "Gateway-Asset-UUID"
+        },
+        "description": "Meta-Gateway-Assets",
+        "version": {
+          "version_id": 65535,
+          "version_name": "Some Name",
+          "version_tag": "Some Tag"
+        }
+      }
+    },
+    {
+      "Meta-Gateway-Assets": {
+        "UUID": {
+          "Date/Sequence": 43996,
+          "E/W": 1,
+          "Latitude": 17.385044,
+          "Longitude": 78.486671,
+          "Manufacturer": 10,
+          "N/S": 1,
+          "Name": "My Site",
+          "UID": 2,
+          "Year": 2017
+        },
+        "class": {
+          "class_id": 65535,
+          "class_name": "Some Name",
+          "class_tag": "Gateway-Asset-UUID"
+        },
+        "description": "Meta-Gateway-Assets",
+        "version": {
+          "version_id": 65535,
+          "version_name": "Some Name",
+          "version_tag": "Some Tag"
+        }
+      }
+    },
+    {
+      "Meta-Gateway-Assets": {
+        "UUID": {
+          "Date/Sequence": 43996,
+          "E/W": 1,
+          "Latitude": 17.385044,
+          "Longitude": 78.486671,
+          "Manufacturer": 10,
+          "N/S": 1,
+          "Name": "My Site",
+          "UID": 3,
+          "Year": 2017
+        },
+        "class": {
+          "class_id": 65535,
+          "class_name": "Some Name",
+          "class_tag": "Gateway-Asset-UUID"
+        },
+        "description": "Meta-Gateway-Assets",
+        "version": {
+          "version_id": 65535,
+          "version_name": "Some Name",
+          "version_tag": "Some Tag"
+        }
+      }
+    },
+    {
+      "Meta-Gateway-Assets": {
+        "UUID": {
+          "Date/Sequence": 43996,
+          "E/W": 1,
+          "Latitude": 17.385044,
+          "Longitude": 78.486671,
+          "Manufacturer": 10,
+          "N/S": 1,
+          "Name": "My Site",
+          "UID": 4,
+          "Year": 2017
+        },
+        "class": {
+          "class_id": 65535,
+          "class_name": "Some Name",
+          "class_tag": "Gateway-Asset-UUID"
+        },
+        "description": "Meta-Gateway-Assets",
+        "version": {
+          "version_id": 65535,
+          "version_name": "Some Name",
+          "version_tag": "Some Tag"
+        }
+      }
+    }
+  ],
+  "Machine-Assets": [
+    {
+      "Meta-Machine-Assets": {
+        "UUID": {
+          "Date/Sequence": 43996,
+          "E/W": 1,
+          "Latitude": 17.385044,
+          "Longitude": 78.486671,
+          "Manufacturer": 10,
+          "N/S": 1,
+          "Name": "My Machine",
+          "UID": 1,
+          "Year": 2017
+        },
+        "class": {
+          "class_id": 65535,
+          "class_name": "Some Name",
+          "class_tag": "Area-Asset-UUID"
+        },
+        "description": "Machine-Assets",
+        "version": {
+          "version_id": 65535,
+          "version_name": "Some Name",
+          "version_tag": "Some Tag"
+        }
+      }
+    }
+  ],
+  "Shelf-Assets": [
+    {
+      "Meta-Shelf-Assets": {
+        "UUID": {
+          "Date/Sequence": 43996,
+          "E/W": 1,
+          "Latitude": 17.385044,
+          "Longitude": 78.486671,
+          "Manufacturer": 10,
+          "N/S": 1,
+          "Name": "My Shelf",
+          "UID": 1,
+          "Year": 2017
+        },
+        "class": {
+          "class_id": 65535,
+          "class_name": "Some Name",
+          "class_tag": "Shelf-Asset-UUID"
+        },
+        "description": "Meta-Shelf-Assets",
+        "version": {
+          "version_id": 65535,
+          "version_name": "Some Name",
+          "version_tag": "Some Tag"
+        }
+      }
+    }
+  ],
+  "Site-Assets": [
+    {
+      "Meta-Site-Assets": {
+        "UUID": {
+          "Date/Sequence": 43996,
+          "E/W": 1,
+          "Latitude": 17.385044,
+          "Longitude": 78.486671,
+          "Manufacturer": 10,
+          "N/S": 1,
+          "Name": "My Site",
+          "UID": 1,
+          "Year": 2017
+        },
+        "class": {
+          "class_id": 65535,
+          "class_name": "Some Name",
+          "class_tag": "Site-Asset-UUID"
+        },
+        "description": "Meta-Site-Assets",
+        "version": {
+          "version_id": 65535,
+          "version_name": "Some Name",
+          "version_tag": "Some Tag"
+        }
+      }
+    }
+  ],
+  "Slot-Assets": [
+    {
+      "Meta-Slot-Assets": {
+        "UUID": {
+          "Date/Sequence": 43996,
+          "E/W": 1,
+          "Latitude": 17.385044,
+          "Longitude": 78.486671,
+          "Manufacturer": 10,
+          "N/S": 1,
+          "Name": "My Slot",
+          "UID": 1,
+          "Year": 2017
+        },
+        "class": {
+          "class_id": 65535,
+          "class_name": "Some Name",
+          "class_tag": "Slot-Asset-UUID"
+        },
+        "description": "Meta-Slot-Assets",
+        "version": {
+          "version_id": 65535,
+          "version_name": "Some Name",
+          "version_tag": "Some Tag"
+        }
+      }
+    },
+    {
+      "Meta-Slot-Assets": {
+        "UUID": {
+          "Date/Sequence": 43996,
+          "E/W": 1,
+          "Latitude": 17.385044,
+          "Longitude": 78.486671,
+          "Manufacturer": 10,
+          "N/S": 1,
+          "Name": "My Slot",
+          "UID": 2,
+          "Year": 2017
+        },
+        "class": {
+          "class_id": 65535,
+          "class_name": "Some Name",
+          "class_tag": "Slot-Asset-UUID"
+        },
+        "description": "Meta-Slot-Assets",
+        "version": {
+          "version_id": 65535,
+          "version_name": "Some Name",
+          "version_tag": "Some Tag"
+        }
+      }
+    },
+    {
+      "Meta-Slot-Assets": {
+        "UUID": {
+          "Date/Sequence": 43996,
+          "E/W": 1,
+          "Latitude": 17.385044,
+          "Longitude": 78.486671,
+          "Manufacturer": 10,
+          "N/S": 1,
+          "Name": "My Slot",
+          "UID": 3,
+          "Year": 2017
+        },
+        "class": {
+          "class_id": 65535,
+          "class_name": "Some Name",
+          "class_tag": "Slot-Asset-UUID"
+        },
+        "description": "Meta-Slot-Assets",
+        "version": {
+          "version_id": 65535,
+          "version_name": "Some Name",
+          "version_tag": "Some Tag"
+        }
+      }
+    },
+    {
+      "Meta-Slot-Assets": {
+        "UUID": {
+          "Date/Sequence": 43996,
+          "E/W": 1,
+          "Latitude": 17.385044,
+          "Longitude": 78.486671,
+          "Manufacturer": 10,
+          "N/S": 1,
+          "Name": "My Slot",
+          "UID": 4,
+          "Year": 2017
+        },
+        "class": {
+          "class_id": 65535,
+          "class_name": "Some Name",
+          "class_tag": "Slot-Asset-UUID"
+        },
+        "description": "Meta-Slot-Assets",
+        "version": {
+          "version_id": 65535,
+          "version_name": "Some Name",
+          "version_tag": "Some Tag"
+        }
+      }
+    },
+    {
+      "Meta-Slot-Assets": {
+        "UUID": {
+          "Date/Sequence": 43996,
+          "E/W": 1,
+          "Latitude": 17.385044,
+          "Longitude": 78.486671,
+          "Manufacturer": 10,
+          "N/S": 1,
+          "Name": "My Slot",
+          "UID": 5,
+          "Year": 2017
+        },
+        "class": {
+          "class_id": 65535,
+          "class_name": "Some Name",
+          "class_tag": "Slot-Asset-UUID"
+        },
+        "description": "Meta-Slot-Assets",
+        "version": {
+          "version_id": 65535,
+          "version_name": "Some Name",
+          "version_tag": "Some Tag"
+        }
+      }
+    },
+    {
+      "Meta-Slot-Assets": {
+        "UUID": {
+          "Date/Sequence": 43996,
+          "E/W": 1,
+          "Latitude": 17.385044,
+          "Longitude": 78.486671,
+          "Manufacturer": 10,
+          "N/S": 1,
+          "Name": "My Slot",
+          "UID": 6,
+          "Year": 2017
+        },
+        "class": {
+          "class_id": 65535,
+          "class_name": "Some Name",
+          "class_tag": "Slot-Asset-UUID"
+        },
+        "description": "Meta-Slot-Assets",
+        "version": {
+          "version_id": 65535,
+          "version_name": "Some Name",
+          "version_tag": "Some Tag"
+        }
+      }
+    },
+    {
+      "Meta-Slot-Assets": {
+        "UUID": {
+          "Date/Sequence": 43996,
+          "E/W": 1,
+          "Latitude": 17.385044,
+          "Longitude": 78.486671,
+          "Manufacturer": 10,
+          "N/S": 1,
+          "Name": "My Slot",
+          "UID": 7,
+          "Year": 2017
+        },
+        "class": {
+          "class_id": 65535,
+          "class_name": "Some Name",
+          "class_tag": "Slot-Asset-UUID"
+        },
+        "description": "Meta-Slot-Assets",
+        "version": {
+          "version_id": 65535,
+          "version_name": "Some Name",
+          "version_tag": "Some Tag"
+        }
+      }
+    },
+    {
+      "Meta-Slot-Assets": {
+        "UUID": {
+          "Date/Sequence": 43996,
+          "E/W": 1,
+          "Latitude": 17.385044,
+          "Longitude": 78.486671,
+          "Manufacturer": 10,
+          "N/S": 1,
+          "Name": "My Slot",
+          "UID": 8,
+          "Year": 2017
+        },
+        "class": {
+          "class_id": 65535,
+          "class_name": "Some Name",
+          "class_tag": "Slot-Asset-UUID"
+        },
+        "description": "Meta-Slot-Assets",
+        "version": {
+          "version_id": 65535,
+          "version_name": "Some Name",
+          "version_tag": "Some Tag"
+        }
+      }
+    },
+    {
+      "Meta-Slot-Assets": {
+        "UUID": {
+          "Date/Sequence": 43996,
+          "E/W": 1,
+          "Latitude": 17.385044,
+          "Longitude": 78.486671,
+          "Manufacturer": 10,
+          "N/S": 1,
+          "Name": "My Slot",
+          "UID": 9,
+          "Year": 2017
+        },
+        "class": {
+          "class_id": 65535,
+          "class_name": "Some Name",
+          "class_tag": "Slot-Asset-UUID"
+        },
+        "description": "Meta-Slot-Assets",
+        "version": {
+          "version_id": 65535,
+          "version_name": "Some Name",
+          "version_tag": "Some Tag"
+        }
+      }
+    },
+    {
+      "Meta-Slot-Assets": {
+        "UUID": {
+          "Date/Sequence": 43996,
+          "E/W": 1,
+          "Latitude": 17.385044,
+          "Longitude": 78.486671,
+          "Manufacturer": 10,
+          "N/S": 1,
+          "Name": "My Slot",
+          "UID": 10,
+          "Year": 2017
+        },
+        "class": {
+          "class_id": 65535,
+          "class_name": "Some Name",
+          "class_tag": "Slot-Asset-UUID"
+        },
+        "description": "Meta-Slot-Assets",
+        "version": {
+          "version_id": 65535,
+          "version_name": "Some Name",
+          "version_tag": "Some Tag"
+        }
+      }
+    },
+    {
+      "Meta-Slot-Assets": {
+        "UUID": {
+          "Date/Sequence": 43996,
+          "E/W": 1,
+          "Latitude": 17.385044,
+          "Longitude": 78.486671,
+          "Manufacturer": 10,
+          "N/S": 1,
+          "Name": "My Slot",
+          "UID": 11,
+          "Year": 2017
+        },
+        "class": {
+          "class_id": 65535,
+          "class_name": "Some Name",
+          "class_tag": "Slot-Asset-UUID"
+        },
+        "description": "Meta-Slot-Assets",
+        "version": {
+          "version_id": 65535,
+          "version_name": "Some Name",
+          "version_tag": "Some Tag"
+        }
+      }
+    },
+    {
+      "Meta-Slot-Assets": {
+        "UUID": {
+          "Date/Sequence": 43996,
+          "E/W": 1,
+          "Latitude": 17.385044,
+          "Longitude": 78.486671,
+          "Manufacturer": 10,
+          "N/S": 1,
+          "Name": "My Slot",
+          "UID": 12,
+          "Year": 2017
+        },
+        "class": {
+          "class_id": 65535,
+          "class_name": "Some Name",
+          "class_tag": "Slot-Asset-UUID"
+        },
+        "description": "Meta-Slot-Assets",
+        "version": {
+          "version_id": 65535,
+          "version_name": "Some Name",
+          "version_tag": "Some Tag"
+        }
+      }
+    },
+    {
+      "Meta-Slot-Assets": {
+        "UUID": {
+          "Date/Sequence": 43996,
+          "E/W": 1,
+          "Latitude": 17.385044,
+          "Longitude": 78.486671,
+          "Manufacturer": 10,
+          "N/S": 1,
+          "Name": "My Slot",
+          "UID": 13,
+          "Year": 2017
+        },
+        "class": {
+          "class_id": 65535,
+          "class_name": "Some Name",
+          "class_tag": "Slot-Asset-UUID"
+        },
+        "description": "Meta-Slot-Assets",
+        "version": {
+          "version_id": 65535,
+          "version_name": "Some Name",
+          "version_tag": "Some Tag"
+        }
+      }
+    },
+    {
+      "Meta-Slot-Assets": {
+        "UUID": {
+          "Date/Sequence": 43996,
+          "E/W": 1,
+          "Latitude": 17.385044,
+          "Longitude": 78.486671,
+          "Manufacturer": 10,
+          "N/S": 1,
+          "Name": "My Slot",
+          "UID": 14,
+          "Year": 2017
+        },
+        "class": {
+          "class_id": 65535,
+          "class_name": "Some Name",
+          "class_tag": "Slot-Asset-UUID"
+        },
+        "description": "Meta-Slot-Assets",
+        "version": {
+          "version_id": 65535,
+          "version_name": "Some Name",
+          "version_tag": "Some Tag"
+        }
+      }
+    },
+    {
+      "Meta-Slot-Assets": {
+        "UUID": {
+          "Date/Sequence": 43996,
+          "E/W": 1,
+          "Latitude": 17.385044,
+          "Longitude": 78.486671,
+          "Manufacturer": 10,
+          "N/S": 1,
+          "Name": "My Slot",
+          "UID": 15,
+          "Year": 2017
+        },
+        "class": {
+          "class_id": 65535,
+          "class_name": "Some Name",
+          "class_tag": "Slot-Asset-UUID"
+        },
+        "description": "Meta-Slot-Assets",
+        "version": {
+          "version_id": 65535,
+          "version_name": "Some Name",
+          "version_tag": "Some Tag"
+        }
+      }
+    },
+    {
+      "Meta-Slot-Assets": {
+        "UUID": {
+          "Date/Sequence": 43996,
+          "E/W": 1,
+          "Latitude": 17.385044,
+          "Longitude": 78.486671,
+          "Manufacturer": 10,
+          "N/S": 1,
+          "Name": "My Slot",
+          "UID": 16,
+          "Year": 2017
+        },
+        "class": {
+          "class_id": 65535,
+          "class_name": "Some Name",
+          "class_tag": "Slot-Asset-UUID"
+        },
+        "description": "Meta-Slot-Assets",
+        "version": {
+          "version_id": 65535,
+          "version_name": "Some Name",
+          "version_tag": "Some Tag"
+        }
+      }
+    }
+  ],
+  "Work-Centers-Assets": [
+    {
+      "Meta-Work-Centers-Assets": {
+        "UUID": {
+          "Date/Sequence": 43996,
+          "E/W": 1,
+          "Latitude": 17.385044,
+          "Longitude": 78.486671,
+          "Manufacturer": 10,
+          "N/S": 1,
+          "Name": "My Process Cell",
+          "UID": 1,
+          "Year": 2017
+        },
+        "class": {
+          "class_id": 65535,
+          "class_name": "Some Name",
+          "class_tag": "Area-Asset-UUID"
+        },
+        "description": "Work-Centers-Assets",
+        "version": {
+          "version_id": 65535,
+          "version_name": "Some Name",
+          "version_tag": "Some Tag"
+        }
+      }
+    }
+  ]
+}

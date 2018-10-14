@@ -1,0 +1,226 @@
+[
+  {
+    "Meta-Assets-Key": {
+      "area_id": 1,
+      "control_module_id": 1,
+      "equipment_module_id": 1,
+      "factory_id": 1,
+      "gateway_id": 1,
+      "machine_id": 1,
+      "shelf_id": 1,
+      "site_id": 1,
+      "slot_id": 1,
+      "work_center_id": 1
+    }
+  },
+  {
+    "Meta-Assets-Key": {
+      "area_id": 1,
+      "control_module_id": 1,
+      "equipment_module_id": 1,
+      "factory_id": 1,
+      "gateway_id": 1,
+      "machine_id": 1,
+      "shelf_id": 1,
+      "site_id": 1,
+      "slot_id": 2,
+      "work_center_id": 1
+    }
+  },
+  {
+    "Meta-Assets-Key": {
+      "area_id": 1,
+      "control_module_id": 1,
+      "equipment_module_id": 1,
+      "factory_id": 1,
+      "gateway_id": 1,
+      "machine_id": 1,
+      "shelf_id": 1,
+      "site_id": 1,
+      "slot_id": 3,
+      "work_center_id": 1
+    }
+  },
+  {
+    "Meta-Assets-Key": {
+      "area_id": 1,
+      "control_module_id": 1,
+      "equipment_module_id": 1,
+      "factory_id": 1,
+      "gateway_id": 1,
+      "machine_id": 1,
+      "shelf_id": 1,
+      "site_id": 1,
+      "slot_id": 4,
+      "work_center_id": 1
+    }
+  },
+  {
+    "Meta-Assets-Key": {
+      "area_id": 1,
+      "control_module_id": 1,
+      "equipment_module_id": 1,
+      "factory_id": 1,
+      "gateway_id": 1,
+      "machine_id": 1,
+      "shelf_id": 1,
+      "site_id": 1,
+      "slot_id": 5,
+      "work_center_id": 1
+    }
+  },
+  {
+    "Meta-Assets-Key": {
+      "area_id": 1,
+      "control_module_id": 1,
+      "equipment_module_id": 1,
+      "factory_id": 1,
+      "gateway_id": 1,
+      "machine_id": 1,
+      "shelf_id": 1,
+      "site_id": 1,
+      "slot_id": 6,
+      "work_center_id": 1
+    }
+  },
+  {
+    "Meta-Assets-Key": {
+      "area_id": 1,
+      "control_module_id": 1,
+      "equipment_module_id": 1,
+      "factory_id": 1,
+      "gateway_id": 1,
+      "machine_id": 1,
+      "shelf_id": 1,
+      "site_id": 1,
+      "slot_id": 7,
+      "work_center_id": 1
+    }
+  },
+  {
+    "Meta-Assets-Key": {
+      "area_id": 1,
+      "control_module_id": 1,
+      "equipment_module_id": 1,
+      "factory_id": 1,
+      "gateway_id": 1,
+      "machine_id": 1,
+      "shelf_id": 1,
+      "site_id": 1,
+      "slot_id": 8,
+      "work_center_id": 1
+    }
+  },
+  {
+    "Meta-Assets-Key": {
+      "area_id": 1,
+      "control_module_id": 1,
+      "equipment_module_id": 1,
+      "factory_id": 1,
+      "gateway_id": 2,
+      "machine_id": 1,
+      "shelf_id": 1,
+      "site_id": 1,
+      "slot_id": 9,
+      "work_center_id": 1
+    }
+  },
+  {
+    "Meta-Assets-Key": {
+      "area_id": 1,
+      "control_module_id": 1,
+      "equipment_module_id": 1,
+      "factory_id": 1,
+      "gateway_id": 2,
+      "machine_id": 1,
+      "shelf_id": 1,
+      "site_id": 1,
+      "slot_id": 10,
+      "work_center_id": 1
+    }
+  },
+  {
+    "Meta-Assets-Key": {
+      "area_id": 1,
+      "control_module_id": 1,
+      "equipment_module_id": 1,
+      "factory_id": 1,
+      "gateway_id": 2,
+      "machine_id": 1,
+      "shelf_id": 1,
+      "site_id": 1,
+      "slot_id": 11,
+      "work_center_id": 1
+    }
+  },
+  {
+    "Meta-Assets-Key": {
+      "area_id": 1,
+      "control_module_id": 1,
+      "equipment_module_id": 1,
+      "factory_id": 1,
+      "gateway_id": 2,
+      "machine_id": 1,
+      "shelf_id": 1,
+      "site_id": 1,
+      "slot_id": 12,
+      "work_center_id": 1
+    }
+  },
+  {
+    "Meta-Assets-Key": {
+      "area_id": 1,
+      "control_module_id": 1,
+      "equipment_module_id": 1,
+      "factory_id": 1,
+      "gateway_id": 2,
+      "machine_id": 1,
+      "shelf_id": 1,
+      "site_id": 1,
+      "slot_id": 13,
+      "work_center_id": 1
+    }
+  },
+  {
+    "Meta-Assets-Key": {
+      "area_id": 1,
+      "control_module_id": 1,
+      "equipment_module_id": 1,
+      "factory_id": 1,
+      "gateway_id": 2,
+      "machine_id": 1,
+      "shelf_id": 1,
+      "site_id": 1,
+      "slot_id": 14,
+      "work_center_id": 1
+    }
+  },
+  {
+    "Meta-Assets-Key": {
+      "area_id": 1,
+      "control_module_id": 1,
+      "equipment_module_id": 1,
+      "factory_id": 1,
+      "gateway_id": 2,
+      "machine_id": 1,
+      "shelf_id": 1,
+      "site_id": 1,
+      "slot_id": 15,
+      "work_center_id": 1
+    }
+  },
+  {
+    "Meta-Assets-Key": {
+      "area_id": 1,
+      "control_module_id": 1,
+      "equipment_module_id": 1,
+      "factory_id": 1,
+      "gateway_id": 2,
+      "machine_id": 1,
+      "shelf_id": 1,
+      "site_id": 1,
+      "slot_id": 16,
+      "work_center_id": 1
+    }
+  }
+]

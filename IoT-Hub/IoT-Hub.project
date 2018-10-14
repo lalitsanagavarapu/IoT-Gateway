@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Project Name="IoT-Hub" InternalType="Console" Version="10.0.0">
+  <Plugins>
+    <Plugin Name="qmake">
+      <![CDATA[00020001N0005Debug0000000000000001N0007Release000000000000]]>
+    </Plugin>
+  </Plugins>
+  <Reconciliation>
+    <Regexes/>
+    <Excludepaths/>
+    <Ignorefiles/>
+    <Extensions>
+      <![CDATA[cpp;c;h;hpp;xrc;wxcp;fbp]]>
+    </Extensions>
+    <Topleveldir>src</Topleveldir>
+  </Reconciliation>
+  <VirtualDirectory Name="things2pack">
+    <VirtualDirectory Name="liquid-oil">
+      <VirtualDirectory Name="src">
+        <File Name="things2pack/liquid-oil/src/vc_sf_liquid_oil_rule_engine.cpp"/>
+      </VirtualDirectory>
+      <VirtualDirectory Name="include">
+        <File Name="things2pack/liquid-oil/include/vc_sf_liquid_oil_rule_engine.h"/>
+      </VirtualDirectory>
+    </VirtualDirectory>
+    <VirtualDirectory Name="analytics">
+      <VirtualDirectory Name="src">
+        <File Name="things2pack/analytics/src/vc_sf_things2pack_rstats.cpp"/>
+      </VirtualDirectory>
+      <VirtualDirectory Name="include">
+        <File Name="things2pack/analytics/include/vc_sf_things2pack_rstats.h"/>
+      </VirtualDirectory>
+    </VirtualDirectory>
+    <VirtualDirectory Name="liquid-milk">
+      <VirtualDirectory Name="src">
+        <File Name="things2pack/liquid-milk/src/vc_sf_liquid_milk_rule_engine.cpp"/>
+      </VirtualDirectory>
+      <VirtualDirectory Name="include">
+        <File Name="things2pack/liquid-milk/include/vc_sf_liquid_milk_rule_engine.h"/>
+      </VirtualDirectory>
+    </VirtualDirectory>
+    <VirtualDirectory Name="recorder">
+      <VirtualDirectory Name="src">
+        <File Name="things2pack/recorder/src/vc_sf_things2pack_recorder.cpp"/>
+      </VirtualDirectory>
+      <VirtualDirectory Name="include">
+        <File Name="things2pack/recorder/include/vc_sf_things2pack_recorder.h"/>
+      </VirtualDirectory>
+    </VirtualDirectory>
+    <VirtualDirectory Name="src">
+      <File Name="things2pack/src/vc-things2pack-service.cpp"/>
+      <File Name="things2pack/src/vc_sf_things2pack.cpp"/>
+      <VirtualDirectory Name="sample-data">
+        <File Name="things2pack/src/sample-data/vc_sf_things2pack_opc_config.cpp"/>
+        <File Name="things2pack/src/sample-data/vc_sf_things2pack_assets_config.cpp"/>
+        <File Name="things2pack/src/sample-data/vc_sf_things2pack_erp_config.cpp"/>
+        <File Name="things2pack/src/sample-data/vc_sf_things2pack_product_rules_config.cpp"/>
+        <File Name="things2pack/src/sample-data/vc_sf_things2pack_preset_cyber_physical_config.cpp"/>
+        <File Name="things2pack/src/sample-data/vc_sf_things2pack_transducer_defs_config.cpp"/>
+      </VirtualDirectory>
+    </VirtualDirectory>
+    <VirtualDirectory Name="include">
+      <File Name="things2pack/include/vc_sf_things2pack.h"/>
+      <File Name="things2pack/include/vc-things2pack-service-interface.h"/>
+      <File Name="things2pack/include/vc-things2pack-service.h"/>
+    </VirtualDirectory>
+  </VirtualDirectory>
+  <VirtualDirectory Name="src">
+    <VirtualDirectory Name="db">
+      <VirtualDirectory Name="redis">
+        <File Name="src/db/redis/vc_sf_redis_client_factory.cpp"/>
+      </VirtualDirectory>
+    </VirtualDirectory>
+    <VirtualDirectory Name="system">
+      <VirtualDirectory Name="global">
+        <VirtualDirectory Name="security">
+          <File Name="src/system/global/security/vc_sf_security_errors.cpp"/>
+        </VirtualDirectory>
+        <VirtualDirectory Name="wsn">
+          <File Name="src/system/global/wsn/vc_sf_es_errors.cpp"/>
+        </VirtualDirectory>
+      </VirtualDirectory>
+    </VirtualDirectory>
+    <VirtualDirectory Name="transducer-transports">
+      <VirtualDirectory Name="src">
+        <File Name="src/transducer-transports/src/vc_sf_modbus_tcp_client.cpp"/>
+      </VirtualDirectory>
+      <VirtualDirectory Name="include">
+        <File Name="src/transducer-transports/include/vc_sf_modbus_tcp_client.h"/>
+      </VirtualDirectory>
+    </VirtualDirectory>
+    <VirtualDirectory Name="transducer-templates">
+      <VirtualDirectory Name="src">
+        <File Name="src/transducer-templates/src/vc_sf_idk_21450_2010_length_transducer.cpp"/>
+        <File Name="src/transducer-templates/src/vc_sf_idk_21450_2010_mass_transducer.cpp"/>
+        <File Name="src/transducer-templates/src/vc_sf_idk_21450_2010_pressure_transducer.cpp"/>
+        <File Name="src/transducer-templates/src/vc_sf_idk_21450_2010_thickness_transducer.cpp"/>
+        <File Name="src/transducer-templates/src/vc_sf_idk_21450_2010_vision_transducer.cpp"/>
+      </VirtualDirectory>
+      <VirtualDirectory Name="include">
+        <File Name="src/transducer-templates/include/vc_sf_idk_21450_2010_vision_transducer.h"/>
+        <File Name="src/transducer-templates/include/vc_sf_idk_21450_2010_mass_transducer.h"/>
+        <File Name="src/transducer-templates/include/vc_sf_idk_21450_2010_length_transducer.h"/>
+        <File Name="src/transducer-templates/include/vc_sf_idk_21450_2010_pressure_transducer.h"/>
+        <File Name="src/transducer-templates/include/vc_sf_idk_21450_2010_thickness_transducer.h"/>
+      </VirtualDirectory>
+    </VirtualDirectory>
+    <VirtualDirectory Name="idk-json11">
+      <File Name="src/idk-json11/json11.cpp"/>
+    </VirtualDirectory>
+    <File Name="src/vc_sf_idk_21450_2010_transducer_analog_interface.cpp"/>
+    <File Name="src/vc_sf_idk_21450_2010_sf_main.cpp"/>
+    <File Name="src/vc_sf_idk_21451_2010_ncap_controller.cpp"/>
+    <File Name="src/vc_sf_idk_21450_2010_transducer_a2d_d2a.cpp"/>
+    <File Name="src/vc_sf_idk_21450_2010_transducer_measurement_interface.cpp"/>
+    <File Name="src/vc_sf_idk_21450_2010_transducer_service_apis.cpp"/>
+    <File Name="src/vc_sf_idk_21450_2010_tim_services.cpp"/>
+    <File Name="src/vc_sf_idk_21451_X_2010_ncap_comm_module.cpp"/>
+    <File Name="src/vc_sf_idk_utils.cpp"/>
+    <File Name="src/vc_sf_idk_21450_2010_transducer.cpp"/>
+    <File Name="src/vc_sf_idk_21450_2010_tim_controller.cpp"/>
+    <File Name="src/vc_sf_idk_21451_X_2010_tim_comm_module.cpp"/>
+    <File Name="src/vc_sf_idk_21450_2010_transducer_signal_conditioner.cpp"/>
+    <File Name="src/vc_sf_idk_21450_2010_errors.cpp"/>
+    <File Name="src/vc_sf_idk_21450_2010_ncap_services.cpp"/>
+    <VirtualDirectory Name="utils">
+      <File Name="src/utils/vc_sf_utils.cpp"/>
+      <File Name="src/utils/vc_sf_time_utils.cpp"/>
+    </VirtualDirectory>
+    <VirtualDirectory Name="foundation/qlib">
+      <File Name="src/foundation/qlib/vc_sf_reliable_redis_q.cpp"/>
+    </VirtualDirectory>
+  </VirtualDirectory>
+  <VirtualDirectory Name="opc">
+    <VirtualDirectory Name="packml">
+      <VirtualDirectory Name="src">
+        <File Name="opc/packml/src/vc_sf_idk_opc_packml_client.cpp"/>
+      </VirtualDirectory>
+      <VirtualDirectory Name="include">
+        <File Name="opc/packml/include/vc_sf_idk_opc_packml_client.h"/>
+        <File Name="opc/packml/include/vc_sf_idk_opc_packml_types.h"/>
+      </VirtualDirectory>
+    </VirtualDirectory>
+    <VirtualDirectory Name="src">
+      <File Name="opc/src/vc_sf_idk_opc_client.cpp"/>
+    </VirtualDirectory>
+    <VirtualDirectory Name="include">
+      <File Name="opc/include/vc_sf_idk_opc_client.h"/>
+    </VirtualDirectory>
+    <File Name="../Edge-Analytics-Server/tech-pubs/BI_BATCH_ANALYTICS.md"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="erp">
+    <VirtualDirectory Name="src">
+      <File Name="erp/src/vc_sf_idk_erp_client.cpp"/>
+    </VirtualDirectory>
+    <VirtualDirectory Name="include">
+      <File Name="erp/include/vc_sf_idk_erp_client.h"/>
+    </VirtualDirectory>
+  </VirtualDirectory>
+  <Description/>
+  <Dependencies/>
+  <VirtualDirectory Name="include">
+    <VirtualDirectory Name="foundation">
+      <VirtualDirectory Name="qlib">
+        <File Name="include/foundation/qlib/vc_sf_reliable_redis_q.h"/>
+      </VirtualDirectory>
+    </VirtualDirectory>
+    <VirtualDirectory Name="db">
+      <VirtualDirectory Name="redis">
+        <File Name="include/db/redis/vc_sf_redis_client_factory.h"/>
+      </VirtualDirectory>
+    </VirtualDirectory>
+    <VirtualDirectory Name="system">
+      <VirtualDirectory Name="global">
+        <VirtualDirectory Name="security">
+          <File Name="include/system/global/security/vc_sf_security_errors.h"/>
+        </VirtualDirectory>
+        <VirtualDirectory Name="wsn">
+          <File Name="include/system/global/wsn/vc_sf_es_errors.h"/>
+        </VirtualDirectory>
+      </VirtualDirectory>
+    </VirtualDirectory>
+    <File Name="include/vc_sf_idk_21450_2010_ncap_services.h"/>
+    <File Name="include/vc_sf_idk_21450_2010_sf_main.h"/>
+    <File Name="include/vc_sf_idk_21451_2010_ncap_controller.h"/>
+    <File Name="include/vc_sf_idk_21450_2010_transducer_measurement_interface.h"/>
+    <File Name="include/vc_sf_idk_21450_2010_types.h"/>
+    <File Name="include/vc_sf_idk_logging.h"/>
+    <File Name="include/vc_sf_idk_utils.h"/>
+    <File Name="include/vc_sf_idk_21450_2010_tim_services.h"/>
+    <File Name="include/vc_sf_idk_21450_2010_transducer.h"/>
+    <File Name="include/vc_sf_idk_21450_2010_transducer_analog_interface.h"/>
+    <File Name="include/vc_sf_idk_21450_2010_transducer_service_apis.h"/>
+    <File Name="include/vc_sf_idk_21451_X_2010_tim_comm_module.h"/>
+    <File Name="include/vc_sf_idk_21450_2010_transducer_a2d_d2a.h"/>
+    <File Name="include/vc_sf_idk_21450_2010_errors.h"/>
+    <File Name="include/vc_sf_idk_21450_2010_tim_controller.h"/>
+    <File Name="include/vc_sf_idk_21451_X_2010_ncap_comm_module.h"/>
+    <File Name="include/vc_sf_idk_21450_2010_transducer_signal_conditioner.h"/>
+    <VirtualDirectory Name="utils">
+      <File Name="include/utils/vc_sf_utils.h"/>
+      <File Name="include/utils/vc_sf_time_utils.h"/>
+    </VirtualDirectory>
+  </VirtualDirectory>
+  <VirtualDirectory Name="config">
+    <File Name="config/configured_factory_physical_assets_tree.json"/>
+    <File Name="config/configured_product_rules.json"/>
+    <File Name="config/configured_erp_rules.json"/>
+    <File Name="config/configured_erp_node.json"/>
+    <File Name="config/configured_opc_node.json"/>
+    <File Name="config/configured_opc_rules.json"/>
+    <File Name="config/configured_transducers.json"/>
+    <File Name="config/digital_twin_config.json"/>
+    <File Name="config/uuids.json"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="object-library">
+    <File Name="object-library/library_of_erp_objects.json"/>
+    <File Name="object-library/library_of_physical_objects.json"/>
+    <File Name="object-library/library_of_opc_objects.json"/>
+    <File Name="object-library/library_of_transducer_objects.json"/>
+    <File Name="object-library/library_of_product_rule_engine_objects.json"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="tech-pubs">
+    <File Name="tech-pubs/README.md"/>
+  </VirtualDirectory>
+  <Settings Type="Executable">
+    <GlobalSettings>
+      <Compiler Options="-std=c++11" C_Options="" Assembler="">
+        <IncludePath Value="."/>
+        <IncludePath Value="./idk"/>
+        <IncludePath Value="./include"/>
+        <IncludePath Value="./include/db/redis"/>
+        <IncludePath Value="./include/foundation/qlib"/>
+        <IncludePath Value="./src/transducer-templates/include"/>
+        <IncludePath Value="./src/transducer-transports/include"/>
+        <IncludePath Value="./things2pack/include"/>
+        <IncludePath Value="./things2pack/liquid-milk/include"/>
+        <IncludePath Value="./things2pack/liquid-oil/include"/>
+        <IncludePath Value="./things2pack/recorder/include"/>
+        <IncludePath Value="./idk/iHubble/poco-1.8.0.1/linux/include/Poco"/>
+        <IncludePath Value="./idk/iHubble/poco-1.8.0.1/linux/include"/>
+        <IncludePath Value="./idk/iHubble/zeromq-4.2.2/linux/include"/>
+        <IncludePath Value="./idk/iHubble/libmodbus-3.1.4/linux/include/modbus"/>
+        <IncludePath Value="./idk/iHubble/gsl-2.4/linux/include"/>
+        <IncludePath Value="./idk/iHubble/hiredis-0.13.3/linux/include/hiredis"/>
+        <IncludePath Value="./idk/iHubble/hiredis-0.13.3/linux/include/hiredis/adapters"/>
+        <IncludePath Value="./things2pack/analytics/include"/>
+        <IncludePath Value="./opc/include"/>
+        <IncludePath Value="./opc/packml/include"/>
+        <IncludePath Value="./erp/include"/>
+        <IncludePath Value="./oam/include"/>
+        <Preprocessor Value="IDK_PLATFORM_LINUX"/>
+        <Preprocessor Value="IDK_PLATFORM_FAMILY_THINGS2PACK"/>
+      </Compiler>
+      <Linker Options="">
+        <LibraryPath Value="."/>
+        <LibraryPath Value="./idk-libs/linux/lib"/>
+        <Library Value="hiredis"/>
+        <Library Value="curl"/>
+        <Library Value="cares"/>
+        <Library Value="microhttpd"/>
+        <Library Value="uriparser"/>
+        <Library Value="PocoNet"/>
+        <Library Value="PocoFoundation"/>
+        <Library Value="zmq"/>
+        <Library Value="sodium"/>
+        <Library Value="modbus"/>
+        <Library Value="pthread"/>
+        <Library Value="ssl"/>
+        <Library Value="crypto"/>
+        <Library Value="hdf5"/>
+        <Library Value="dl"/>
+        <Library Value="z"/>
+        <Library Value="gsl"/>
+        <Library Value="cblas"/>
+        <Library Value="atlas"/>
+        <Library Value="m"/>
+      </Linker>
+      <ResourceCompiler Options=""/>
+    </GlobalSettings>
+    <Configuration Name="Debug" CompilerType="GCC" DebuggerType="GNU gdb debugger" Type="Executable" BuildCmpWithGlobalSettings="append" BuildLnkWithGlobalSettings="append" BuildResWithGlobalSettings="append">
+      <Compiler Options="-g;-O0;-Wall" C_Options="-g;-O0;-Wall" Assembler="" Required="yes" PreCompiledHeader="" PCHInCommandLine="no" PCHFlags="" PCHFlagsPolicy="0">
+        <IncludePath Value="."/>
+      </Compiler>
+      <Linker Options="" Required="yes"/>
+      <ResourceCompiler Options="" Required="no"/>
+      <General OutputFile="$(IntermediateDirectory)/$(ProjectName)" IntermediateDirectory="./Debug" Command="./$(ProjectName)" CommandArguments="" UseSeparateDebugArgs="no" DebugArguments="" WorkingDirectory="$(IntermediateDirectory)" PauseExecWhenProcTerminates="yes" IsGUIProgram="no" IsEnabled="yes"/>
+      <BuildSystem Name="Default"/>
+      <Environment EnvVarSetName="&lt;Use Defaults&gt;" DbgSetName="&lt;Use Defaults&gt;">
+        <![CDATA[]]>
+      </Environment>
+      <Debugger IsRemote="no" RemoteHostName="" RemoteHostPort="" DebuggerPath="" IsExtended="yes">
+        <DebuggerSearchPaths/>
+        <PostConnectCommands/>
+        <StartupCommands/>
+      </Debugger>
+      <PreBuild/>
+      <PostBuild/>
+      <CustomBuild Enabled="no">
+        <RebuildCommand/>
+        <CleanCommand/>
+        <BuildCommand/>
+        <PreprocessFileCommand/>
+        <SingleFileCommand/>
+        <MakefileGenerationCommand/>
+        <ThirdPartyToolName>None</ThirdPartyToolName>
+        <WorkingDirectory/>
+      </CustomBuild>
+      <AdditionalRules>
+        <CustomPostBuild/>
+        <CustomPreBuild/>
+      </AdditionalRules>
+      <Completion EnableCpp11="no" EnableCpp14="no">
+        <ClangCmpFlagsC/>
+        <ClangCmpFlags/>
+        <ClangPP/>
+        <SearchPaths/>
+      </Completion>
+    </Configuration>
+    <Configuration Name="Release" CompilerType="GCC" DebuggerType="GNU gdb debugger" Type="Executable" BuildCmpWithGlobalSettings="append" BuildLnkWithGlobalSettings="append" BuildResWithGlobalSettings="append">
+      <Compiler Options="-O2;-Wall" C_Options="-O2;-Wall" Assembler="" Required="yes" PreCompiledHeader="" PCHInCommandLine="no" PCHFlags="" PCHFlagsPolicy="0">
+        <IncludePath Value="."/>
+        <Preprocessor Value="NDEBUG"/>
+      </Compiler>
+      <Linker Options="" Required="yes"/>
+      <ResourceCompiler Options="" Required="no"/>
+      <General OutputFile="$(IntermediateDirectory)/picominer-gateway" IntermediateDirectory="./Release" Command="./$(ProjectName)" CommandArguments="" UseSeparateDebugArgs="no" DebugArguments="" WorkingDirectory="$(IntermediateDirectory)" PauseExecWhenProcTerminates="yes" IsGUIProgram="no" IsEnabled="yes"/>
+      <BuildSystem Name="Default"/>
+      <Environment EnvVarSetName="&lt;Use Defaults&gt;" DbgSetName="&lt;Use Defaults&gt;">
+        <![CDATA[]]>
+      </Environment>
+      <Debugger IsRemote="no" RemoteHostName="" RemoteHostPort="" DebuggerPath="" IsExtended="no">
+        <DebuggerSearchPaths/>
+        <PostConnectCommands/>
+        <StartupCommands/>
+      </Debugger>
+      <PreBuild/>
+      <PostBuild/>
+      <CustomBuild Enabled="no">
+        <RebuildCommand/>
+        <CleanCommand/>
+        <BuildCommand/>
+        <PreprocessFileCommand/>
+        <SingleFileCommand/>
+        <MakefileGenerationCommand/>
+        <ThirdPartyToolName>None</ThirdPartyToolName>
+        <WorkingDirectory/>
+      </CustomBuild>
+      <AdditionalRules>
+        <CustomPostBuild/>
+        <CustomPreBuild/>
+      </AdditionalRules>
+      <Completion EnableCpp11="no" EnableCpp14="no">
+        <ClangCmpFlagsC/>
+        <ClangCmpFlags/>
+        <ClangPP/>
+        <SearchPaths/>
+      </Completion>
+    </Configuration>
+  </Settings>
+  <Dependencies Name="Debug"/>
+  <Dependencies Name="Release"/>
+</CodeLite_Project>
